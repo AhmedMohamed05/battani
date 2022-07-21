@@ -199,13 +199,13 @@ header .logo {
 
 @media (max-width: 768px) {
     .landing .text {
-        margin-top: -100px;
+        margin-top: -300px;
     }
 }
 
 @media (max-width: 390px) {
     .landing .text {
-        margin-top: -400px;
+        margin-top: -500px;
     }
 }
 
@@ -301,19 +301,19 @@ header .logo {
 
 @media (max-width: 399px) {
     .our-services {
-        margin-top: -500px;
+        margin-top: -700px;
     }
 }
 
 @media (min-width: 400px) and (max-width: 500px) {
     .our-services {
-        margin-top: -300px;
+        margin-top: -700px;
     }
 }
 
 @media (min-width: 500px) and (max-width: 600px) {
     .our-services {
-        margin-top: -200px;
+        margin-top: -600px;
     }
 }
 
@@ -629,10 +629,6 @@ footer {
         padding: 50px 0;
         flex-direction: column;
     }
-}
-
-footer>div {
-    /* border: solid 1px red; */
 }
 
 footer .map {
